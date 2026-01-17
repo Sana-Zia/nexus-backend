@@ -65,6 +65,17 @@ This repository contains the backend implementation of **Business Nexus**, a pla
 
 ---
 
+## Pending / Not Fully Integrated
+
+- Frontend integration for:
+  - Registration/Login
+  - Documents page
+  - Meetings scheduling
+  - Video calling UI
+  - Payments UI
+
+> **Note:** Some features are backend-ready but frontend is not fully linked. Demonstration screenshots or mock data may be used for presentation purposes.
+
 ## ⚙️ Setup Instructions
 
 ```bash
