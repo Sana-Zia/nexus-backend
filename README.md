@@ -74,7 +74,7 @@ This repository contains the backend implementation of **Business Nexus**, a pla
   - Video calling UI
   - Payments UI
 
-> **Note:** Some features are backend-ready but frontend is not fully linked. Demonstration screenshots or mock data may be used for presentation purposes.
+> **Note:** Some features are backend-ready but frontend is not fully linked.
 
 ## ⚙️ Setup Instructions
 
